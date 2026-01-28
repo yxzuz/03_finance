@@ -33,7 +33,6 @@ A modern, full-stack machine learning application for real-time credit card frau
 │   │   └── README.md           # React-specific docs
 │   └── ml/                     # Machine learning pipeline
 │       └── train.py            # Model training script
-├── backend/                    # Legacy backend (deprecated)
 ├── models/                     # Trained model artifacts
 │   └── fraud_detection_model.h5
 ├── data/                       # Dataset files
