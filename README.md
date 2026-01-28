@@ -49,6 +49,16 @@ A modern, full-stack machine learning application for real-time credit card frau
 - Node.js 18+
 - npm or yarn
 
+### ⚠️ Important: Data Files Required
+
+**You need to add data files yourself.** This repository does not include the dataset due to file size limitations.
+
+**Required dataset:**
+
+- Download the Credit Card Fraud Detection dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+- Place the `creditcard.csv` file in the `data/` directory
+- See [data/README.md](data/README.md) for detailed instructions
+
 ### 1. Environment Setup
 
 ```bash
